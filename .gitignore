@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.npm-cache/
+.electron-cache/
+.tmp/
+.venv/
+.chrome-profile/
+shots/
+release/win-unpacked/
+release/*.blockmap
+release/builder-debug.yml
+*.log
+*.local
+.DS_Store
